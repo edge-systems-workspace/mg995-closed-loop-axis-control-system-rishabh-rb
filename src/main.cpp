@@ -15,7 +15,7 @@ void loop() {
     delay(500);
 
     myServo.write(90);
-    delay(500);
+    delay(400);
 
     myServo.write(135);
     delay(500);
