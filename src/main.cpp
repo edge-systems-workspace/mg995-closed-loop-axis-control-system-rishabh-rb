@@ -1,7 +1,7 @@
 /**
 * @file main.ino
  * @brief MG995 Closed-Loop Axis Control System
- * @author Rishabh Barnwal
+ * @author rishabh-rb
  * @date 2026-02-20
  *
  * @details
